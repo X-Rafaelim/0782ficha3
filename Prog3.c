@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//programa  calcular dinheiro por 3 vencedores
 int main(){
     float dinheiroTotal = 500000.00;
     float primeiro;

@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//programa  para fazer calculos com if
 int main(){
     int menu = 1;
     float numero1;

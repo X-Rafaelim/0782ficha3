@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//programa  dias da semana
 int main()
 {
     int dia;

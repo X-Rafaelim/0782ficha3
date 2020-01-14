@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//programa  para fazer calculos com switch
 int main()
 {
     int menu = 1;

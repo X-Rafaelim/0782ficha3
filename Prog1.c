@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//programa  Fahrenheit para celcius
 int main(){
     float grausFahrenheit;
     float grausCelcius;

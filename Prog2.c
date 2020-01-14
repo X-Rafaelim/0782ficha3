@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//programa  suecessor e antecessor
 int main(){
     float numero;
     float numeroSucessor;
